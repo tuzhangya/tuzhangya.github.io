@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(252, 243, 2);
+}
+
+body {
+    background-color: rgb(255, 0, 179);
+}
+.login_div {
+
+    padding: 15px;
+    border: solid 3px rgb(255, 233, 32);
+    display: inline-block;
+}
+.login_div input{
+    display: block;
+    margin-bottom: 15px;
+}
+.login_div input[type=email]{
+    border: solid 5px rgb(255, 255, 0);
+    background-color: rgb(255, 2, 196);
+
+}
